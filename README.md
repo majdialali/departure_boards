@@ -1,6 +1,6 @@
 # departure_boards
 
-requirement:
+requirements:
 -nmp install node
 -nmp install express
 -nmp install nedb
