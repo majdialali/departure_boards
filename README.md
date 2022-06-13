@@ -1,2 +1,7 @@
 # departure_boards
-node.js  - graphQl - REST api - Async 
+
+requirement:
+-nmp install node
+-nmp install express
+-nmp install nedb
+
