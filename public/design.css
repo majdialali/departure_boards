@@ -1,0 +1,42 @@
+/*.............  Sign in / Log in  ..............*/
+
+
+.data_li, .data_si{
+
+    margin-left: 9em;
+    margin-bottom: 2em;
+    border-radius: 8px;
+    align-items: center
+}
+.fieldName{
+
+    font-weight: bold;
+    position: absolute  
+}
+
+
+.errorText_li, .errorText_si{
+    margin-left: 2em;
+    color: red;
+}
+#submitText{
+    color: green;
+}
+#ant{
+    width: 3%;
+}
+
+
+/*.............  Departure boards  ..............*/
+
+body{
+    background-color: rgb(201, 201, 201)
+}
+
+#inp{
+    text-align: center; width: 20%; padding: 12px 20px; border-radius: 4px
+}
+
+#btn{
+    width: 10%; height: 40px; margin-left: 90px
+}
